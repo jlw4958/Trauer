@@ -1,0 +1,26 @@
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\bin\Debug\netcoreapp3.1\WashingtonJ-HW1.exe
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\bin\Debug\netcoreapp3.1\WashingtonJ-HW1.deps.json
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\bin\Debug\netcoreapp3.1\WashingtonJ-HW1.runtimeconfig.json
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\bin\Debug\netcoreapp3.1\WashingtonJ-HW1.runtimeconfig.dev.json
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\bin\Debug\netcoreapp3.1\WashingtonJ-HW1.dll
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\bin\Debug\netcoreapp3.1\WashingtonJ-HW1.pdb
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.csprojAssemblyReference.cache
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.AssemblyInfoInputs.cache
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.AssemblyInfo.cs
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.csproj.CoreCompileInputs.cache
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.dll
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.pdb
+C:\Users\jabwa\Desktop\Game Dev HW\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.genruntimeconfig.cache
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\bin\Debug\netcoreapp3.1\WashingtonJ-HW1.exe
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\bin\Debug\netcoreapp3.1\WashingtonJ-HW1.deps.json
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\bin\Debug\netcoreapp3.1\WashingtonJ-HW1.runtimeconfig.json
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\bin\Debug\netcoreapp3.1\WashingtonJ-HW1.runtimeconfig.dev.json
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\bin\Debug\netcoreapp3.1\WashingtonJ-HW1.dll
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\bin\Debug\netcoreapp3.1\WashingtonJ-HW1.pdb
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.csprojAssemblyReference.cache
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.AssemblyInfoInputs.cache
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.AssemblyInfo.cs
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.csproj.CoreCompileInputs.cache
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.dll
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.pdb
+C:\Users\jabwa\Desktop\GitHub\igme-105\WashingtonJ-HW1\obj\Debug\netcoreapp3.1\WashingtonJ-HW1.genruntimeconfig.cache
